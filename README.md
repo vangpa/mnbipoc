@@ -8,6 +8,8 @@ Motivation: The motivation behind the creation and maintenance of this project i
 
 Features: Users can search the database of mental health providers, filter (by race, language, services, and gender), add new providers, edit provider information and delate providers. 
 
+How to run project: First run db_creator.py then run main.py
+
 Built With: Flask, Python- PyCharm
 
 Authors: Pa Xiong Vang, Himanshu Sahoo
