@@ -12,6 +12,6 @@ How to run project: First run db_creator.py then run main.py
 
 Built With: Flask, Python- PyCharm
 
-Authors: Pa Xiong Vang
+Authors: Pa Vang
 
 Credits: Himanshu Sahoo- PhD Graduate Candidate, Larry Yang- Mental Health Therapist
